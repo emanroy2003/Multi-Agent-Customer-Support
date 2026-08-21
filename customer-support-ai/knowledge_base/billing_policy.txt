@@ -1,0 +1,29 @@
+NimbusCloud Billing Policy and FAQ
+
+Overview
+NimbusCloud offers three subscription tiers: Starter ($9/month), Pro ($29/month), and Premium ($79/month). All plans are billed monthly in advance, on the same calendar day the subscription started.
+
+Payment Methods
+We accept Visa, Mastercard, American Express, and PayPal. Payment is charged automatically to the card or account on file. If a payment fails, we retry twice over the following 5 days before suspending the account.
+
+Payment Processing Delays
+After a successful payment, it can take up to 30 minutes for our billing system to sync with the account service and unlock any plan-gated features. If more than 2 hours have passed since a successful charge and the account has not been updated, this is treated as a sync failure and should be escalated to the Technical Support team for an account refresh, in addition to being logged as a Billing issue.
+
+Refund Policy
+NimbusCloud offers a 14-day money-back guarantee on all new subscriptions. Refund requests must be submitted within 14 days of the initial charge. Refunds are processed within 5-7 business days back to the original payment method. Downgrades and cancellations after the 14-day window are not eligible for prorated refunds, but the plan remains active until the end of the current billing cycle.
+
+Upgrading and Downgrading Plans
+Customers can upgrade at any time; the price difference is charged immediately on a prorated basis. Downgrades take effect at the start of the next billing cycle to avoid losing access to features already paid for in the current cycle.
+
+Failed Payments and Account Suspension
+If all payment retries fail, the account is moved to "Payment Required" status. Premium and Pro features are disabled, but data is retained for 30 days. Customers can restore full access immediately by updating their payment method and completing a manual charge.
+
+Invoices and Receipts
+Invoices are emailed automatically after every successful charge and are also available for download from Account Settings > Billing > Invoice History.
+
+Common Billing Questions
+Q: I was charged twice this month, what do I do?
+A: Duplicate charges are usually caused by a retried payment that also succeeded. Contact support with the invoice IDs and a refund for the duplicate will be issued within 5-7 business days.
+
+Q: Can I get a discount for annual billing?
+A: Yes, switching to annual billing gives a 20% discount on Pro and Premium plans.

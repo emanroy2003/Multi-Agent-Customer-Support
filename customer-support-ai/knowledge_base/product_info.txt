@@ -1,0 +1,29 @@
+NimbusCloud Product Overview
+
+What is NimbusCloud?
+NimbusCloud is a cloud-based project and workspace management platform for teams. It combines task tracking, file storage, and team messaging into a single workspace.
+
+Plan Comparison
+Starter ($9/month): 1 workspace, up to 5 team members, 5GB storage, community support.
+Pro ($29/month): 5 workspaces, up to 25 team members, 100GB storage, email support, API access at 300 req/min.
+Premium ($79/month): unlimited workspaces, unlimited team members, 1TB storage, priority support with 2-hour response SLA, API access at 1000 req/min, advanced analytics dashboard, single sign-on (SSO).
+
+Key Features
+- Task boards with customizable workflows (Kanban, list, and calendar views)
+- Real-time collaborative document editing
+- File storage with version history
+- Team chat channels integrated with tasks
+- Automation rules (e.g., auto-assign tasks based on labels)
+- Third-party integrations: Slack, Google Drive, GitHub, Zapier
+
+Premium-Exclusive Features
+Advanced analytics dashboard, SSO/SAML login, unlimited automation rules, custom branding, dedicated account manager, and priority support with a guaranteed 2-hour response time.
+
+Mobile Apps
+NimbusCloud has native apps for iOS and Android with full feature parity to the web app, including offline mode for viewing tasks without an internet connection.
+
+Roadmap Highlights
+Upcoming features (subject to change) include AI-powered task suggestions, Gantt chart views, and a public API v2 with webhooks.
+
+Onboarding
+New teams get a guided setup wizard and a free 30-minute onboarding call with a NimbusCloud specialist, available for Pro and Premium customers.

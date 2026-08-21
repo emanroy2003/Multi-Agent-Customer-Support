@@ -1,0 +1,22 @@
+NimbusCloud General FAQ
+
+Q: How do I contact support?
+A: Use the in-app chat assistant, email support@nimbuscloud.example, or (Premium customers only) call the priority support line listed in Account Settings.
+
+Q: What are your support hours?
+A: Community and email support are available 24/7 with responses within 1 business day. Premium priority support guarantees a response within 2 hours, 24/7.
+
+Q: Is my data secure?
+A: All data is encrypted in transit (TLS 1.3) and at rest (AES-256). NimbusCloud is SOC 2 Type II certified and undergoes annual third-party security audits.
+
+Q: Can I use NimbusCloud for personal projects?
+A: Yes, the Starter plan works well for individuals and small personal projects.
+
+Q: How do I delete my account?
+A: Go to Account Settings > Danger Zone > Delete Account. This permanently removes all workspaces and data after a 30-day grace period, during which the deletion can be reversed by logging back in.
+
+Q: Do you offer a free trial?
+A: Yes, all new accounts get a 14-day free trial of the Pro plan, no credit card required.
+
+Q: Where are your servers located?
+A: Primary data centers are in the US (Virginia) and EU (Frankfurt). Customers can choose their data residency region during account setup.

@@ -1,0 +1,16 @@
+NimbusCloud Complaint Handling Policy
+
+Complaint Categories
+Complaints are classified as: Service Quality (bugs, downtime, slow performance), Billing Disputes (unexpected charges, refund denials), Support Experience (unhelpful or slow support responses), and Account Issues (data loss, unauthorized access).
+
+Escalation Criteria
+A complaint is automatically escalated to a human specialist when any of the following are true: the customer explicitly asks to speak to a manager or human agent, the same issue has been reported more than once, the complaint involves potential data loss or security concerns, or the customer expresses significant frustration or threatens to cancel their subscription.
+
+Escalation Process
+Escalated complaints are logged with full conversation history and routed to the appropriate specialist team within 1 business hour. The customer receives an acknowledgment immediately, including an estimated response time based on their plan tier (Premium: 2 hours, Pro: 8 hours, Starter: 24 hours).
+
+Compensation Guidelines
+For verified extended outages (over 1 hour of downtime), affected customers on Pro and Premium plans are eligible for a service credit equal to the prorated cost of the downtime period, applied automatically to the next invoice.
+
+Tone and De-escalation
+When handling complaints, acknowledge the customer's frustration genuinely, avoid corporate-sounding deflection, and always provide a concrete next step or timeline rather than a vague apology.
